@@ -1,0 +1,351 @@
+id,nome_evento,categoria,local,bairro,data,hora,duracao_min,capacidade,publico,ocupacao_pct,preco_ingresso,gratuito,receita_total,artista
+1,Teatro — Humoristas do Nordeste #1,Teatro,Arena Meireles,Meireles,2024-04-14,21:00,240,220,114,0.52,28.37,False,3234.18,Humoristas do Nordeste
+2,Cinema — Instrutores SENAC #2,Cinema,Teatro RioMar,Meireles,2024-01-28,20:00,90,83,34,0.41,25.11,False,853.74,Instrutores SENAC
+3,Cinema — Companhia de Teatro Local #3,Cinema,Clube Náutico,Varjota,2024-06-12,21:00,150,131,91,0.7,15.13,False,1376.83,Companhia de Teatro Local
+4,Festival — Banda Cearense #4,Festival,Shopping Maraponga,Maraponga,2024-12-18,20:00,120,1259,1019,0.81,175.64,False,178977.16,Banda Cearense
+5,Teatro — Instrutores SENAC #5,Teatro,Casa de Cultura,Messejana,2025-01-05,20:00,90,362,199,0.55,0.0,True,0.0,Instrutores SENAC
+6,Festival — Orquestra Fortaleza #6,Festival,UFC Campus,Benfica,2025-04-09,21:00,120,2407,2310,0.96,183.04,False,422822.4,Orquestra Fortaleza
+7,Festival — Cineclube Dragão #7,Festival,UFC Campus,Benfica,2025-04-18,19:00,120,1901,1634,0.86,135.68,False,221701.12,Cineclube Dragão
+8,Festival — Grupo Folclórico CE #8,Festival,Shopping Maraponga,Maraponga,2025-02-14,18:00,60,2376,2257,0.95,331.77,False,748804.89,Grupo Folclórico CE
+9,Dança — Grupo Folclórico CE #9,Dança,Clube Náutico,Varjota,2024-05-26,18:00,90,181,142,0.79,45.71,False,6490.82,Grupo Folclórico CE
+10,Stand-up — Banda Cearense #10,Stand-up,Praça Central,Messejana,2025-06-05,19:00,60,285,171,0.6,99.83,False,17070.93,Banda Cearense
+11,Exposição — Humoristas do Nordeste #11,Exposição,Centro Cultural BNB,Centro,2025-04-24,20:00,120,266,133,0.5,11.54,False,1534.82,Humoristas do Nordeste
+12,Show Musical — Coral Universitário #12,Show Musical,Teatro Glauco Rodrigues,Aldeota,2024-12-14,14:00,120,2499,2224,0.89,201.41,False,447935.84,Coral Universitário
+13,Show Musical — Humoristas do Nordeste #13,Show Musical,UFC Campus,Benfica,2024-11-01,22:00,240,2379,2260,0.95,222.81,False,503550.6,Humoristas do Nordeste
+14,Exposição — Artistas Visuais CE #14,Exposição,Shopping Maraponga,Maraponga,2024-01-01,20:00,120,326,221,0.68,0.0,True,0.0,Artistas Visuais CE
+15,Dança — Artistas Visuais CE #15,Dança,UFC Campus,Benfica,2024-03-21,14:00,240,94,44,0.47,42.69,False,1878.36,Artistas Visuais CE
+16,Exposição — Coral Universitário #16,Exposição,Centro Cultural BNB,Centro,2025-06-24,22:00,180,293,196,0.67,4.95,False,970.2,Coral Universitário
+17,Festival — Trio Nordestino #17,Festival,Espaço Benfica,Benfica,2024-05-03,16:00,90,3559,2953,0.83,231.15,False,682585.95,Trio Nordestino
+18,Festival — Trio Nordestino #18,Festival,Espaço Varjota,Varjota,2024-03-10,14:00,120,1081,983,0.91,70.61,False,69409.63,Trio Nordestino
+19,Stand-up — Coral Universitário #19,Stand-up,Anfiteatro da Beira Mar,Beira Mar,2025-04-29,16:00,150,376,210,0.56,95.49,False,20052.9,Coral Universitário
+20,Teatro — Cineclube Dragão #20,Teatro,Praça Central,Messejana,2024-02-25,21:00,240,296,180,0.61,71.83,False,12929.4,Cineclube Dragão
+21,Cinema — DJ Nordeste #21,Cinema,Shopping Maraponga,Maraponga,2024-05-23,19:00,90,123,49,0.4,25.73,False,1260.77,DJ Nordeste
+22,Teatro — Orquestra Fortaleza #22,Teatro,Anfiteatro da Beira Mar,Beira Mar,2024-01-16,14:00,90,105,76,0.73,52.44,False,3985.44,Orquestra Fortaleza
+23,Workshop — DJ Nordeste #23,Workshop,Clube Náutico,Varjota,2025-02-03,18:00,150,77,40,0.53,106.85,False,4274.0,DJ Nordeste
+24,Workshop — Banda Cearense #24,Workshop,Teatro José de Alencar,Centro,2024-03-03,21:00,120,38,23,0.61,0.0,True,0.0,Banda Cearense
+25,Workshop — Coral Universitário #25,Workshop,Teatro José de Alencar,Centro,2024-03-10,21:00,90,52,28,0.54,77.87,False,2180.36,Coral Universitário
+26,Festival — Grupo Folclórico CE #26,Festival,Arena Meireles,Meireles,2025-06-19,18:00,120,1171,971,0.83,254.29,False,246915.59,Grupo Folclórico CE
+27,Dança — Banda Cearense #27,Dança,Clube Náutico,Varjota,2025-04-13,18:00,60,181,76,0.42,45.82,False,3482.32,Banda Cearense
+28,Teatro — Companhia de Teatro Local #28,Teatro,Teatro Glauco Rodrigues,Aldeota,2024-12-23,14:00,90,189,122,0.65,27.95,False,3409.9,Companhia de Teatro Local
+29,Workshop — Trio Nordestino #29,Workshop,UFC Campus,Benfica,2024-04-16,16:00,120,62,56,0.91,94.91,False,5314.96,Trio Nordestino
+30,Exposição — DJ Nordeste #30,Exposição,Espaço Benfica,Benfica,2024-09-27,20:00,150,359,111,0.31,10.29,False,1142.19,DJ Nordeste
+31,Show Musical — Cineclube Dragão #31,Show Musical,Teatro Glauco Rodrigues,Aldeota,2024-12-07,22:00,90,2034,1871,0.92,49.26,False,92165.46,Cineclube Dragão
+32,Exposição — Companhia de Teatro Local #32,Exposição,Iate Clube,Beira Mar,2024-06-01,20:00,60,337,67,0.2,2.26,False,151.42,Companhia de Teatro Local
+33,Exposição — Cineclube Dragão #33,Exposição,Casa de Cultura,Messejana,2024-02-10,18:00,90,71,24,0.35,26.97,False,647.28,Cineclube Dragão
+34,Teatro — Orquestra Fortaleza #34,Teatro,Centro Comunitário,Maraponga,2024-08-30,22:00,90,397,305,0.77,75.55,False,23042.75,Orquestra Fortaleza
+35,Show Musical — Instrutores SENAC #35,Show Musical,Centro Cultural BNB,Centro,2024-09-11,18:00,90,1660,1494,0.9,126.46,False,188931.24,Instrutores SENAC
+36,Show Musical — Grupo Folclórico CE #36,Show Musical,Anfiteatro da Beira Mar,Beira Mar,2024-11-08,22:00,90,1117,1016,0.91,0.0,True,0.0,Grupo Folclórico CE
+37,Festival — Humoristas do Nordeste #37,Festival,Praça Central,Messejana,2024-10-12,18:00,240,2782,2670,0.96,388.41,False,1037054.7,Humoristas do Nordeste
+38,Dança — Ballet Fortaleza #38,Dança,Teatro RioMar,Meireles,2024-09-28,14:00,60,146,64,0.44,58.5,False,3744.0,Ballet Fortaleza
+39,Dança — Banda Cearense #39,Dança,Casa de Cultura,Messejana,2024-02-15,21:00,150,178,142,0.8,27.6,False,3919.2,Banda Cearense
+40,Festival — Instrutores SENAC #40,Festival,Centro Comunitário,Maraponga,2024-11-17,21:00,60,1073,1051,0.98,372.27,False,391255.77,Instrutores SENAC
+41,Stand-up — Coral Universitário #41,Stand-up,Praça Central,Messejana,2024-07-15,19:00,240,306,247,0.81,68.81,False,16996.07,Coral Universitário
+42,Exposição — Ballet Fortaleza #42,Exposição,Espaço Benfica,Benfica,2024-08-03,19:00,180,330,204,0.62,9.12,False,1860.48,Ballet Fortaleza
+43,Workshop — DJ Nordeste #43,Workshop,Iate Clube,Beira Mar,2024-06-22,21:00,60,63,38,0.61,120.98,False,4597.24,DJ Nordeste
+44,Dança — Grupo Folclórico CE #44,Dança,Cineteatro São Luiz,Aldeota,2024-05-30,14:00,60,252,128,0.51,52.26,False,6689.28,Grupo Folclórico CE
+45,Teatro — Orquestra Fortaleza #45,Teatro,Iate Clube,Beira Mar,2025-05-21,19:00,90,374,187,0.5,61.78,False,11552.86,Orquestra Fortaleza
+46,Show Musical — Humoristas do Nordeste #46,Show Musical,Espaço Cultural Aldeota,Aldeota,2025-06-14,19:00,60,1196,801,0.67,241.17,False,193177.17,Humoristas do Nordeste
+47,Teatro — Ballet Fortaleza #47,Teatro,Anfiteatro da Beira Mar,Beira Mar,2024-11-20,22:00,150,317,231,0.73,79.27,False,18311.37,Ballet Fortaleza
+48,Cinema — Artistas Visuais CE #48,Cinema,Anfiteatro da Beira Mar,Beira Mar,2024-10-10,22:00,180,181,95,0.53,30.04,False,2853.8,Artistas Visuais CE
+49,Stand-up — Orquestra Fortaleza #49,Stand-up,Anfiteatro da Beira Mar,Beira Mar,2024-11-23,20:00,60,465,292,0.63,49.02,False,14313.84,Orquestra Fortaleza
+50,Cinema — Grupo Folclórico CE #50,Cinema,Centro Cultural BNB,Centro,2025-04-22,19:00,60,114,37,0.33,23.15,False,856.55,Grupo Folclórico CE
+51,Cinema — Coral Universitário #51,Cinema,Arena Meireles,Meireles,2024-11-01,22:00,150,157,84,0.54,33.85,False,2843.4,Coral Universitário
+52,Festival — Coral Universitário #52,Festival,Anfiteatro da Beira Mar,Beira Mar,2024-12-10,21:00,240,2735,2270,0.83,60.16,False,136563.2,Coral Universitário
+53,Workshop — Coral Universitário #53,Workshop,Centro Cultural BNB,Centro,2024-01-28,14:00,240,54,27,0.51,109.1,False,2945.7,Coral Universitário
+54,Workshop — DJ Nordeste #54,Workshop,Teatro José de Alencar,Centro,2024-11-30,18:00,150,36,24,0.69,81.75,False,1962.0,DJ Nordeste
+55,Cinema — Trio Nordestino #55,Cinema,UFC Campus,Benfica,2024-12-24,16:00,240,180,55,0.31,25.79,False,1418.45,Trio Nordestino
+56,Show Musical — Cineclube Dragão #56,Show Musical,Teatro RioMar,Meireles,2024-09-01,16:00,150,1116,1026,0.92,170.48,False,174912.48,Cineclube Dragão
+57,Festival — DJ Nordeste #57,Festival,Iate Clube,Beira Mar,2024-04-27,22:00,90,3521,2640,0.75,262.54,False,693105.6,DJ Nordeste
+58,Show Musical — DJ Nordeste #58,Show Musical,Espaço Benfica,Benfica,2024-09-05,14:00,240,1924,1847,0.96,81.65,False,150807.55,DJ Nordeste
+59,Teatro — Banda Cearense #59,Teatro,Centro Cultural Dragão do Mar,Meireles,2025-06-02,21:00,120,352,214,0.61,42.23,False,9037.22,Banda Cearense
+60,Workshop — Instrutores SENAC #60,Workshop,Espaço Cultural Aldeota,Aldeota,2024-06-05,19:00,90,43,35,0.82,174.31,False,6100.85,Instrutores SENAC
+61,Stand-up — Trio Nordestino #61,Stand-up,Iate Clube,Beira Mar,2024-11-26,22:00,90,323,281,0.87,71.47,False,20083.07,Trio Nordestino
+62,Workshop — Orquestra Fortaleza #62,Workshop,Clube Náutico,Varjota,2024-01-30,19:00,120,56,45,0.81,106.85,False,4808.25,Orquestra Fortaleza
+63,Dança — Humoristas do Nordeste #63,Dança,Espaço Benfica,Benfica,2024-10-09,20:00,60,151,119,0.79,48.05,False,5717.95,Humoristas do Nordeste
+64,Teatro — Artistas Visuais CE #64,Teatro,Clube Náutico,Varjota,2025-05-02,21:00,240,330,224,0.68,34.42,False,7710.08,Artistas Visuais CE
+65,Show Musical — Humoristas do Nordeste #65,Show Musical,Espaço Cultural Aldeota,Aldeota,2025-01-12,19:00,180,1207,905,0.75,91.09,False,82436.45,Humoristas do Nordeste
+66,Dança — Instrutores SENAC #66,Dança,Centro Comunitário,Maraponga,2024-07-16,18:00,60,149,74,0.5,29.22,False,2162.28,Instrutores SENAC
+67,Exposição — Trio Nordestino #67,Exposição,Espaço Varjota,Varjota,2025-06-21,20:00,120,428,188,0.44,21.74,False,4087.12,Trio Nordestino
+68,Stand-up — Banda Cearense #68,Stand-up,Clube Náutico,Varjota,2024-05-09,18:00,60,191,122,0.64,79.56,False,9706.32,Banda Cearense
+69,Exposição — Orquestra Fortaleza #69,Exposição,Anfiteatro da Beira Mar,Beira Mar,2025-05-05,19:00,120,496,104,0.21,8.53,False,887.12,Orquestra Fortaleza
+70,Stand-up — Ballet Fortaleza #70,Stand-up,Anfiteatro da Beira Mar,Beira Mar,2024-02-24,16:00,90,520,275,0.53,64.42,False,17715.5,Ballet Fortaleza
+71,Teatro — Coral Universitário #71,Teatro,Espaço Varjota,Varjota,2024-08-19,22:00,180,365,284,0.78,56.38,False,16011.92,Coral Universitário
+72,Workshop — Cineclube Dragão #72,Workshop,Espaço Benfica,Benfica,2024-04-11,22:00,90,39,30,0.78,59.03,False,1770.9,Cineclube Dragão
+73,Teatro — Ballet Fortaleza #73,Teatro,Teatro José de Alencar,Centro,2025-02-22,19:00,240,168,114,0.68,29.39,False,3350.46,Ballet Fortaleza
+74,Show Musical — Ballet Fortaleza #74,Show Musical,Clube Náutico,Varjota,2024-08-27,18:00,240,1458,1268,0.87,135.35,False,171623.8,Ballet Fortaleza
+75,Festival — Trio Nordestino #75,Festival,Casa de Cultura,Messejana,2024-09-29,22:00,90,4961,3819,0.77,0.0,True,0.0,Trio Nordestino
+76,Stand-up — Humoristas do Nordeste #76,Stand-up,Espaço Benfica,Benfica,2025-02-16,18:00,180,163,115,0.71,51.29,False,5898.35,Humoristas do Nordeste
+77,Teatro — Ballet Fortaleza #77,Teatro,Centro Cultural Dragão do Mar,Meireles,2024-08-22,21:00,180,245,171,0.7,21.55,False,3685.05,Ballet Fortaleza
+78,Stand-up — Coral Universitário #78,Stand-up,Teatro RioMar,Meireles,2024-10-11,16:00,180,340,248,0.73,60.96,False,15118.08,Coral Universitário
+79,Workshop — Companhia de Teatro Local #79,Workshop,Espaço Cultural Aldeota,Aldeota,2024-04-17,22:00,90,42,29,0.7,98.16,False,2846.64,Companhia de Teatro Local
+80,Workshop — Companhia de Teatro Local #80,Workshop,Espaço Benfica,Benfica,2024-03-31,18:00,120,72,63,0.88,55.5,False,3496.5,Companhia de Teatro Local
+81,Cinema — Artistas Visuais CE #81,Cinema,Arena Meireles,Meireles,2025-06-14,18:00,180,198,104,0.53,16.08,False,1672.32,Artistas Visuais CE
+82,Show Musical — Cineclube Dragão #82,Show Musical,Clube Náutico,Varjota,2025-05-11,14:00,60,2549,1656,0.65,100.49,False,166411.44,Cineclube Dragão
+83,Festival — Cineclube Dragão #83,Festival,Praça do Ferreira,Centro,2024-04-26,19:00,60,612,532,0.87,82.62,False,43953.84,Cineclube Dragão
+84,Workshop — Orquestra Fortaleza #84,Workshop,Espaço Benfica,Benfica,2024-09-06,19:00,180,46,42,0.92,197.04,False,8275.68,Orquestra Fortaleza
+85,Exposição — DJ Nordeste #85,Exposição,Espaço Cultural Aldeota,Aldeota,2025-06-03,18:00,60,445,267,0.6,12.45,False,3324.15,DJ Nordeste
+86,Workshop — Grupo Folclórico CE #86,Workshop,Praça do Ferreira,Centro,2025-01-21,19:00,120,54,39,0.74,99.87,False,3894.93,Grupo Folclórico CE
+87,Festival — Cineclube Dragão #87,Festival,Casa de Cultura,Messejana,2025-01-25,19:00,240,3865,2744,0.71,310.65,False,852423.6,Cineclube Dragão
+88,Workshop — Trio Nordestino #88,Workshop,Teatro RioMar,Meireles,2024-04-12,22:00,150,52,50,0.98,99.8,False,4990.0,Trio Nordestino
+89,Workshop — DJ Nordeste #89,Workshop,Arena Meireles,Meireles,2024-06-07,14:00,150,29,20,0.7,148.22,False,2964.4,DJ Nordeste
+90,Cinema — Banda Cearense #90,Cinema,Espaço Cultural Aldeota,Aldeota,2025-05-14,22:00,180,196,96,0.49,21.33,False,2047.68,Banda Cearense
+91,Festival — Instrutores SENAC #91,Festival,UFC Campus,Benfica,2024-04-12,19:00,90,1240,1029,0.83,84.46,False,86909.34,Instrutores SENAC
+92,Show Musical — Coral Universitário #92,Show Musical,Centro Cultural Dragão do Mar,Meireles,2024-05-29,16:00,180,529,375,0.71,118.72,False,44520.0,Coral Universitário
+93,Exposição — Orquestra Fortaleza #93,Exposição,Teatro José de Alencar,Centro,2024-09-03,19:00,180,90,45,0.5,11.48,False,516.6,Orquestra Fortaleza
+94,Stand-up — Orquestra Fortaleza #94,Stand-up,Iate Clube,Beira Mar,2024-10-21,21:00,180,441,220,0.5,0.0,True,0.0,Orquestra Fortaleza
+95,Dança — Trio Nordestino #95,Dança,Espaço Benfica,Benfica,2024-07-22,19:00,150,256,122,0.48,53.81,False,6564.82,Trio Nordestino
+96,Dança — Cineclube Dragão #96,Dança,Espaço Benfica,Benfica,2024-10-08,14:00,180,85,71,0.84,46.33,False,3289.43,Cineclube Dragão
+97,Show Musical — Cineclube Dragão #97,Show Musical,Iate Clube,Beira Mar,2024-07-13,20:00,120,1242,1030,0.83,113.99,False,117409.7,Cineclube Dragão
+98,Exposição — Instrutores SENAC #98,Exposição,Teatro Glauco Rodrigues,Aldeota,2024-02-04,20:00,120,380,83,0.22,23.66,False,1963.78,Instrutores SENAC
+99,Stand-up — DJ Nordeste #99,Stand-up,Centro Comunitário,Maraponga,2025-01-09,20:00,180,189,111,0.59,85.06,False,9441.66,DJ Nordeste
+100,Stand-up — Grupo Folclórico CE #100,Stand-up,Iate Clube,Beira Mar,2025-04-24,14:00,90,482,428,0.89,86.3,False,36936.4,Grupo Folclórico CE
+101,Cinema — Instrutores SENAC #101,Cinema,Shopping Maraponga,Maraponga,2025-04-10,18:00,240,161,49,0.31,25.73,False,1260.77,Instrutores SENAC
+102,Cinema — Cineclube Dragão #102,Cinema,Shopping Maraponga,Maraponga,2024-12-01,20:00,90,119,64,0.54,0.0,True,0.0,Cineclube Dragão
+103,Workshop — Trio Nordestino #103,Workshop,Espaço Benfica,Benfica,2024-11-07,19:00,60,27,15,0.57,191.94,False,2879.1,Trio Nordestino
+104,Exposição — Instrutores SENAC #104,Exposição,Praça Central,Messejana,2025-03-05,20:00,240,239,129,0.54,22.29,False,2875.41,Instrutores SENAC
+105,Cinema — Artistas Visuais CE #105,Cinema,Espaço Cultural Aldeota,Aldeota,2025-01-14,16:00,150,164,126,0.77,20.59,False,2594.34,Artistas Visuais CE
+106,Dança — DJ Nordeste #106,Dança,Teatro Glauco Rodrigues,Aldeota,2025-01-02,14:00,150,174,107,0.62,59.11,False,6324.77,DJ Nordeste
+107,Teatro — Grupo Folclórico CE #107,Teatro,Anfiteatro da Beira Mar,Beira Mar,2024-01-22,14:00,120,188,135,0.72,55.83,False,7537.05,Grupo Folclórico CE
+108,Festival — Ballet Fortaleza #108,Festival,Teatro Glauco Rodrigues,Aldeota,2024-08-26,18:00,90,2197,1933,0.88,0.0,True,0.0,Ballet Fortaleza
+109,Exposição — Companhia de Teatro Local #109,Exposição,Centro Cultural BNB,Centro,2024-01-27,16:00,60,178,106,0.6,3.3,False,349.8,Companhia de Teatro Local
+110,Festival — Instrutores SENAC #110,Festival,Shopping Maraponga,Maraponga,2025-03-07,20:00,60,1927,1503,0.78,0.0,True,0.0,Instrutores SENAC
+111,Workshop — Humoristas do Nordeste #111,Workshop,Shopping Maraponga,Maraponga,2024-02-14,21:00,240,48,36,0.75,191.81,False,6905.16,Humoristas do Nordeste
+112,Show Musical — Companhia de Teatro Local #112,Show Musical,Centro Cultural Dragão do Mar,Meireles,2025-03-30,14:00,60,1945,1478,0.76,62.67,False,92626.26,Companhia de Teatro Local
+113,Teatro — Humoristas do Nordeste #113,Teatro,Praça do Ferreira,Centro,2024-11-28,19:00,180,399,287,0.72,52.9,False,15182.3,Humoristas do Nordeste
+114,Cinema — Grupo Folclórico CE #114,Cinema,Teatro Glauco Rodrigues,Aldeota,2024-08-08,19:00,150,89,64,0.73,28.02,False,1793.28,Grupo Folclórico CE
+115,Workshop — Cineclube Dragão #115,Workshop,Praça Central,Messejana,2024-09-18,18:00,90,66,36,0.55,114.01,False,4104.36,Cineclube Dragão
+116,Teatro — Humoristas do Nordeste #116,Teatro,Cineteatro São Luiz,Aldeota,2025-01-16,22:00,90,127,78,0.62,0.0,True,0.0,Humoristas do Nordeste
+117,Dança — Banda Cearense #117,Dança,Espaço Cultural Aldeota,Aldeota,2025-03-09,22:00,240,170,134,0.79,57.65,False,7725.1,Banda Cearense
+118,Stand-up — Companhia de Teatro Local #118,Stand-up,Shopping Maraponga,Maraponga,2025-05-08,16:00,60,395,288,0.73,40.83,False,11759.04,Companhia de Teatro Local
+119,Dança — Instrutores SENAC #119,Dança,Espaço Cultural Aldeota,Aldeota,2024-01-27,20:00,240,226,103,0.46,37.16,False,3827.48,Instrutores SENAC
+120,Exposição — Coral Universitário #120,Exposição,Espaço Benfica,Benfica,2024-05-26,20:00,240,223,84,0.38,0.0,True,0.0,Coral Universitário
+121,Show Musical — DJ Nordeste #121,Show Musical,Teatro Glauco Rodrigues,Aldeota,2024-12-15,16:00,120,2472,1680,0.68,128.16,False,215308.8,DJ Nordeste
+122,Teatro — Cineclube Dragão #122,Teatro,Teatro RioMar,Meireles,2024-03-24,18:00,150,160,124,0.78,22.99,False,2850.76,Cineclube Dragão
+123,Workshop — Cineclube Dragão #123,Workshop,Praça Central,Messejana,2025-03-16,14:00,120,33,29,0.88,67.07,False,1945.03,Cineclube Dragão
+124,Workshop — Grupo Folclórico CE #124,Workshop,UFC Campus,Benfica,2024-01-08,16:00,120,34,23,0.7,139.9,False,3217.7,Grupo Folclórico CE
+125,Stand-up — Humoristas do Nordeste #125,Stand-up,Espaço Benfica,Benfica,2024-06-28,16:00,150,161,80,0.5,82.29,False,6583.2,Humoristas do Nordeste
+126,Dança — Ballet Fortaleza #126,Dança,Espaço Cultural Aldeota,Aldeota,2025-04-15,14:00,120,300,216,0.72,37.45,False,8089.2,Ballet Fortaleza
+127,Cinema — Artistas Visuais CE #127,Cinema,Praça Central,Messejana,2024-06-24,22:00,180,89,44,0.5,34.32,False,1510.08,Artistas Visuais CE
+128,Dança — Coral Universitário #128,Dança,Espaço Cultural Aldeota,Aldeota,2025-02-14,20:00,60,296,118,0.4,37.43,False,4416.74,Coral Universitário
+129,Dança — Grupo Folclórico CE #129,Dança,Clube Náutico,Varjota,2024-04-26,20:00,180,279,119,0.43,40.42,False,4809.98,Grupo Folclórico CE
+130,Dança — Cineclube Dragão #130,Dança,Shopping Maraponga,Maraponga,2024-06-26,20:00,90,140,56,0.4,0.0,True,0.0,Cineclube Dragão
+131,Workshop — Companhia de Teatro Local #131,Workshop,Iate Clube,Beira Mar,2024-11-26,22:00,240,63,60,0.96,134.67,False,8080.2,Companhia de Teatro Local
+132,Teatro — DJ Nordeste #132,Teatro,Iate Clube,Beira Mar,2024-12-26,20:00,60,235,188,0.8,55.49,False,10432.12,DJ Nordeste
+133,Show Musical — Humoristas do Nordeste #133,Show Musical,Centro Cultural Dragão do Mar,Meireles,2024-04-02,20:00,180,1475,929,0.63,221.49,False,205764.21,Humoristas do Nordeste
+134,Show Musical — Companhia de Teatro Local #134,Show Musical,Anfiteatro da Beira Mar,Beira Mar,2024-03-04,19:00,60,1616,1341,0.83,145.29,False,194833.89,Companhia de Teatro Local
+135,Teatro — Orquestra Fortaleza #135,Teatro,Teatro José de Alencar,Centro,2025-06-20,20:00,180,206,154,0.75,79.46,False,12236.84,Orquestra Fortaleza
+136,Stand-up — Trio Nordestino #136,Stand-up,Praça Central,Messejana,2024-12-08,14:00,120,496,322,0.65,71.85,False,23135.7,Trio Nordestino
+137,Cinema — Cineclube Dragão #137,Cinema,Espaço Benfica,Benfica,2024-05-24,18:00,120,98,46,0.47,26.65,False,1225.9,Cineclube Dragão
+138,Cinema — Cineclube Dragão #138,Cinema,Centro Cultural BNB,Centro,2024-12-02,22:00,90,81,36,0.45,22.53,False,811.08,Cineclube Dragão
+139,Teatro — Grupo Folclórico CE #139,Teatro,Praça Central,Messejana,2024-08-07,18:00,150,89,51,0.58,30.82,False,1571.82,Grupo Folclórico CE
+140,Exposição — Companhia de Teatro Local #140,Exposição,Teatro José de Alencar,Centro,2025-06-23,14:00,240,201,124,0.62,3.03,False,375.72,Companhia de Teatro Local
+141,Exposição — Banda Cearense #141,Exposição,Casa de Cultura,Messejana,2024-06-18,21:00,150,133,38,0.29,20.79,False,790.02,Banda Cearense
+142,Festival — Companhia de Teatro Local #142,Festival,Iate Clube,Beira Mar,2025-04-25,22:00,90,4177,3216,0.77,133.71,False,430011.36,Companhia de Teatro Local
+143,Workshop — Ballet Fortaleza #143,Workshop,Iate Clube,Beira Mar,2024-06-14,22:00,90,69,47,0.69,129.12,False,6068.64,Ballet Fortaleza
+144,Stand-up — Trio Nordestino #144,Stand-up,Arena Meireles,Meireles,2024-04-15,21:00,180,346,307,0.89,68.82,False,21127.74,Trio Nordestino
+145,Exposição — Companhia de Teatro Local #145,Exposição,Espaço Benfica,Benfica,2024-08-15,22:00,150,312,84,0.27,13.12,False,1102.08,Companhia de Teatro Local
+146,Cinema — Banda Cearense #146,Cinema,Centro Cultural Dragão do Mar,Meireles,2024-03-24,18:00,90,188,92,0.49,22.72,False,2090.24,Banda Cearense
+147,Teatro — Instrutores SENAC #147,Teatro,Shopping Maraponga,Maraponga,2025-04-28,21:00,90,150,63,0.42,75.04,False,4727.52,Instrutores SENAC
+148,Show Musical — DJ Nordeste #148,Show Musical,Cineteatro São Luiz,Aldeota,2025-06-24,19:00,60,1348,916,0.68,71.4,False,65402.4,DJ Nordeste
+149,Teatro — Ballet Fortaleza #149,Teatro,Teatro RioMar,Meireles,2024-03-05,14:00,150,294,211,0.72,57.37,False,12105.07,Ballet Fortaleza
+150,Festival — Cineclube Dragão #150,Festival,Praça do Ferreira,Centro,2025-03-02,16:00,240,4016,2811,0.7,173.49,False,487680.39,Cineclube Dragão
+151,Dança — Banda Cearense #151,Dança,Teatro Glauco Rodrigues,Aldeota,2024-01-21,19:00,150,219,131,0.6,59.53,False,7798.43,Banda Cearense
+152,Dança — Instrutores SENAC #152,Dança,UFC Campus,Benfica,2024-04-16,22:00,180,171,126,0.74,33.79,False,4257.54,Instrutores SENAC
+153,Exposição — Cineclube Dragão #153,Exposição,Centro Cultural Dragão do Mar,Meireles,2025-04-20,21:00,150,329,121,0.37,19.28,False,2332.88,Cineclube Dragão
+154,Exposição — Banda Cearense #154,Exposição,Teatro Glauco Rodrigues,Aldeota,2024-07-25,14:00,90,447,299,0.67,1.11,False,331.89,Banda Cearense
+155,Stand-up — Cineclube Dragão #155,Stand-up,Praça Central,Messejana,2024-10-19,18:00,60,229,119,0.52,75.28,False,8958.32,Cineclube Dragão
+156,Teatro — Artistas Visuais CE #156,Teatro,Centro Comunitário,Maraponga,2025-01-30,18:00,90,284,218,0.77,73.68,False,16062.24,Artistas Visuais CE
+157,Dança — Companhia de Teatro Local #157,Dança,UFC Campus,Benfica,2024-07-03,20:00,120,266,148,0.56,37.22,False,5508.56,Companhia de Teatro Local
+158,Dança — Banda Cearense #158,Dança,Espaço Benfica,Benfica,2025-03-30,18:00,150,194,126,0.65,37.04,False,4667.04,Banda Cearense
+159,Dança — Coral Universitário #159,Dança,Praça Central,Messejana,2024-03-17,21:00,240,243,204,0.84,57.92,False,11815.68,Coral Universitário
+160,Exposição — Grupo Folclórico CE #160,Exposição,Teatro RioMar,Meireles,2024-02-05,16:00,60,484,242,0.5,23.44,False,5672.48,Grupo Folclórico CE
+161,Dança — Artistas Visuais CE #161,Dança,Centro Comunitário,Maraponga,2025-04-05,18:00,120,225,83,0.37,26.14,False,2169.62,Artistas Visuais CE
+162,Exposição — Orquestra Fortaleza #162,Exposição,Centro Comunitário,Maraponga,2024-04-26,14:00,240,210,109,0.52,7.49,False,816.41,Orquestra Fortaleza
+163,Cinema — Grupo Folclórico CE #163,Cinema,Espaço Cultural Aldeota,Aldeota,2024-10-19,21:00,150,126,81,0.65,19.29,False,1562.49,Grupo Folclórico CE
+164,Teatro — Instrutores SENAC #164,Teatro,Anfiteatro da Beira Mar,Beira Mar,2024-11-23,21:00,120,307,276,0.9,0.0,True,0.0,Instrutores SENAC
+165,Stand-up — Humoristas do Nordeste #165,Stand-up,UFC Campus,Benfica,2024-06-27,22:00,120,464,380,0.82,79.02,False,30027.6,Humoristas do Nordeste
+166,Festival — Orquestra Fortaleza #166,Festival,Teatro José de Alencar,Centro,2025-01-12,19:00,180,4547,3228,0.71,243.91,False,787341.48,Orquestra Fortaleza
+167,Teatro — Ballet Fortaleza #167,Teatro,Espaço Cultural Aldeota,Aldeota,2025-06-22,19:00,150,283,254,0.9,0.0,True,0.0,Ballet Fortaleza
+168,Dança — Coral Universitário #168,Dança,Espaço Cultural Aldeota,Aldeota,2024-07-05,22:00,90,199,137,0.69,33.78,False,4627.86,Coral Universitário
+169,Show Musical — DJ Nordeste #169,Show Musical,Teatro Glauco Rodrigues,Aldeota,2024-08-18,18:00,180,926,666,0.72,74.01,False,49290.66,DJ Nordeste
+170,Stand-up — Orquestra Fortaleza #170,Stand-up,Clube Náutico,Varjota,2024-04-05,20:00,240,164,127,0.78,73.01,False,9272.27,Orquestra Fortaleza
+171,Exposição — Trio Nordestino #171,Exposição,Centro Cultural BNB,Centro,2024-02-12,22:00,60,369,206,0.56,0.0,True,0.0,Trio Nordestino
+172,Stand-up — Artistas Visuais CE #172,Stand-up,Clube Náutico,Varjota,2024-10-23,21:00,120,416,328,0.79,64.86,False,21274.08,Artistas Visuais CE
+173,Cinema — Grupo Folclórico CE #173,Cinema,Espaço Benfica,Benfica,2025-03-01,19:00,150,78,49,0.64,18.16,False,889.84,Grupo Folclórico CE
+174,Exposição — Humoristas do Nordeste #174,Exposição,Centro Comunitário,Maraponga,2025-02-12,16:00,120,425,293,0.69,10.36,False,3035.48,Humoristas do Nordeste
+175,Dança — Coral Universitário #175,Dança,Clube Náutico,Varjota,2024-04-09,14:00,120,111,53,0.48,29.92,False,1585.76,Coral Universitário
+176,Cinema — Artistas Visuais CE #176,Cinema,Espaço Varjota,Varjota,2024-07-13,22:00,90,143,110,0.77,29.42,False,3236.2,Artistas Visuais CE
+177,Workshop — Grupo Folclórico CE #177,Workshop,Iate Clube,Beira Mar,2025-06-01,19:00,90,51,26,0.51,191.78,False,4986.28,Grupo Folclórico CE
+178,Show Musical — Banda Cearense #178,Show Musical,Centro Cultural Dragão do Mar,Meireles,2025-04-26,18:00,180,2327,1931,0.83,217.0,False,419027.0,Banda Cearense
+179,Cinema — Humoristas do Nordeste #179,Cinema,Praça do Ferreira,Centro,2025-02-14,14:00,180,153,104,0.68,22.32,False,2321.28,Humoristas do Nordeste
+180,Stand-up — Coral Universitário #180,Stand-up,Espaço Cultural Aldeota,Aldeota,2024-05-01,16:00,60,358,250,0.7,68.49,False,17122.5,Coral Universitário
+181,Dança — Orquestra Fortaleza #181,Dança,Shopping Maraponga,Maraponga,2024-02-11,14:00,60,130,84,0.65,36.06,False,3029.04,Orquestra Fortaleza
+182,Workshop — Ballet Fortaleza #182,Workshop,Anfiteatro da Beira Mar,Beira Mar,2024-11-22,16:00,150,58,55,0.95,70.97,False,3903.35,Ballet Fortaleza
+183,Stand-up — Cineclube Dragão #183,Stand-up,Centro Comunitário,Maraponga,2024-01-18,18:00,120,462,346,0.75,63.24,False,21881.04,Cineclube Dragão
+184,Cinema — Ballet Fortaleza #184,Cinema,UFC Campus,Benfica,2024-08-21,21:00,60,181,77,0.43,28.11,False,2164.47,Ballet Fortaleza
+185,Cinema — Artistas Visuais CE #185,Cinema,Centro Cultural BNB,Centro,2024-04-22,16:00,60,122,39,0.32,33.96,False,1324.44,Artistas Visuais CE
+186,Exposição — Instrutores SENAC #186,Exposição,Casa de Cultura,Messejana,2025-04-27,22:00,240,260,117,0.45,0.0,True,0.0,Instrutores SENAC
+187,Exposição — Companhia de Teatro Local #187,Exposição,Clube Náutico,Varjota,2024-06-26,19:00,180,389,171,0.44,11.3,False,1932.3,Companhia de Teatro Local
+188,Stand-up — Instrutores SENAC #188,Stand-up,Anfiteatro da Beira Mar,Beira Mar,2024-08-18,18:00,120,590,359,0.61,69.07,False,24796.13,Instrutores SENAC
+189,Workshop — Ballet Fortaleza #189,Workshop,Centro Comunitário,Maraponga,2024-10-07,18:00,60,42,32,0.78,190.17,False,6085.44,Ballet Fortaleza
+190,Cinema — Cineclube Dragão #190,Cinema,Praça Central,Messejana,2024-03-21,18:00,150,97,43,0.45,20.75,False,892.25,Cineclube Dragão
+191,Workshop — Ballet Fortaleza #191,Workshop,Espaço Varjota,Varjota,2024-10-05,16:00,60,72,55,0.77,189.95,False,10447.25,Ballet Fortaleza
+192,Festival — Instrutores SENAC #192,Festival,Espaço Varjota,Varjota,2024-04-12,19:00,120,4850,3734,0.77,131.49,False,490983.66,Instrutores SENAC
+193,Exposição — Grupo Folclórico CE #193,Exposição,Arena Meireles,Meireles,2025-05-02,19:00,240,130,52,0.4,28.05,False,1458.6,Grupo Folclórico CE
+194,Stand-up — Instrutores SENAC #194,Stand-up,Centro Comunitário,Maraponga,2024-08-25,20:00,240,430,227,0.53,83.81,False,19024.87,Instrutores SENAC
+195,Show Musical — Orquestra Fortaleza #195,Show Musical,Praça do Ferreira,Centro,2025-02-10,22:00,150,1020,969,0.95,47.63,False,46153.47,Orquestra Fortaleza
+196,Stand-up — Cineclube Dragão #196,Stand-up,Teatro RioMar,Meireles,2024-12-09,18:00,150,252,191,0.76,37.51,False,7164.41,Cineclube Dragão
+197,Workshop — Artistas Visuais CE #197,Workshop,Centro Cultural BNB,Centro,2024-12-04,16:00,240,49,31,0.64,171.32,False,5310.92,Artistas Visuais CE
+198,Exposição — Cineclube Dragão #198,Exposição,Arena Meireles,Meireles,2024-07-16,16:00,180,222,133,0.6,17.03,False,2264.99,Cineclube Dragão
+199,Cinema — Grupo Folclórico CE #199,Cinema,Shopping Maraponga,Maraponga,2024-05-23,19:00,120,162,102,0.63,0.0,True,0.0,Grupo Folclórico CE
+200,Cinema — Companhia de Teatro Local #200,Cinema,Clube Náutico,Varjota,2024-01-12,18:00,240,128,99,0.78,21.04,False,2082.96,Companhia de Teatro Local
+201,Show Musical — Cineclube Dragão #201,Show Musical,Espaço Cultural Aldeota,Aldeota,2024-11-14,21:00,60,1556,1026,0.66,184.08,False,188866.08,Cineclube Dragão
+202,Stand-up — Companhia de Teatro Local #202,Stand-up,Shopping Maraponga,Maraponga,2025-04-10,21:00,180,212,197,0.93,63.47,False,12503.59,Companhia de Teatro Local
+203,Workshop — Humoristas do Nordeste #203,Workshop,Espaço Varjota,Varjota,2024-03-24,20:00,150,63,55,0.88,180.97,False,9953.35,Humoristas do Nordeste
+204,Teatro — Humoristas do Nordeste #204,Teatro,Cineteatro São Luiz,Aldeota,2024-06-02,16:00,120,360,306,0.85,32.13,False,9831.78,Humoristas do Nordeste
+205,Festival — Artistas Visuais CE #205,Festival,Anfiteatro da Beira Mar,Beira Mar,2024-05-15,20:00,150,4680,3884,0.83,69.47,False,269821.48,Artistas Visuais CE
+206,Workshop — Banda Cearense #206,Workshop,UFC Campus,Benfica,2024-08-11,20:00,60,45,28,0.63,50.45,False,1412.6,Banda Cearense
+207,Teatro — Instrutores SENAC #207,Teatro,Teatro RioMar,Meireles,2024-05-18,22:00,240,321,134,0.42,44.53,False,5967.02,Instrutores SENAC
+208,Cinema — Cineclube Dragão #208,Cinema,Centro Comunitário,Maraponga,2025-01-19,14:00,240,174,127,0.73,33.14,False,4208.78,Cineclube Dragão
+209,Exposição — Banda Cearense #209,Exposição,Shopping Maraponga,Maraponga,2024-05-10,21:00,90,141,98,0.7,11.79,False,1155.42,Banda Cearense
+210,Stand-up — DJ Nordeste #210,Stand-up,Iate Clube,Beira Mar,2025-04-16,18:00,90,372,249,0.67,46.08,False,11473.92,DJ Nordeste
+211,Teatro — Trio Nordestino #211,Teatro,Arena Meireles,Meireles,2024-01-17,16:00,90,294,208,0.71,76.17,False,15843.36,Trio Nordestino
+212,Show Musical — Banda Cearense #212,Show Musical,Anfiteatro da Beira Mar,Beira Mar,2024-08-27,20:00,90,1302,1145,0.88,124.48,False,142529.6,Banda Cearense
+213,Stand-up — Orquestra Fortaleza #213,Stand-up,Clube Náutico,Varjota,2024-11-24,16:00,120,395,304,0.77,77.08,False,23432.32,Orquestra Fortaleza
+214,Festival — Coral Universitário #214,Festival,Praça Central,Messejana,2024-06-28,21:00,240,2754,1982,0.72,381.98,False,757084.36,Coral Universitário
+215,Show Musical — Orquestra Fortaleza #215,Show Musical,Centro Comunitário,Maraponga,2024-06-01,18:00,150,2448,1762,0.72,127.43,False,224531.66,Orquestra Fortaleza
+216,Workshop — Coral Universitário #216,Workshop,Espaço Varjota,Varjota,2025-04-19,14:00,180,39,36,0.93,71.65,False,2579.4,Coral Universitário
+217,Exposição — Trio Nordestino #217,Exposição,Casa de Cultura,Messejana,2025-04-05,22:00,120,180,54,0.3,19.4,False,1047.6,Trio Nordestino
+218,Festival — Instrutores SENAC #218,Festival,Centro Cultural Dragão do Mar,Meireles,2024-03-15,16:00,180,3589,3230,0.9,261.02,False,843094.6,Instrutores SENAC
+219,Festival — Trio Nordestino #219,Festival,Anfiteatro da Beira Mar,Beira Mar,2024-08-04,16:00,240,3227,2549,0.79,368.15,False,938414.35,Trio Nordestino
+220,Workshop — Humoristas do Nordeste #220,Workshop,Espaço Varjota,Varjota,2024-10-16,19:00,150,45,43,0.96,132.81,False,5710.83,Humoristas do Nordeste
+221,Stand-up — Grupo Folclórico CE #221,Stand-up,Espaço Benfica,Benfica,2025-04-25,22:00,120,362,325,0.9,62.62,False,20351.5,Grupo Folclórico CE
+222,Cinema — Grupo Folclórico CE #222,Cinema,Arena Meireles,Meireles,2025-03-03,18:00,90,116,77,0.67,15.32,False,1179.64,Grupo Folclórico CE
+223,Cinema — Instrutores SENAC #223,Cinema,Clube Náutico,Varjota,2024-09-20,22:00,150,200,126,0.63,28.7,False,3616.2,Instrutores SENAC
+224,Workshop — Cineclube Dragão #224,Workshop,Anfiteatro da Beira Mar,Beira Mar,2025-05-15,16:00,180,66,59,0.9,75.39,False,4448.01,Cineclube Dragão
+225,Show Musical — Orquestra Fortaleza #225,Show Musical,Teatro Glauco Rodrigues,Aldeota,2024-08-24,14:00,240,498,443,0.89,0.0,True,0.0,Orquestra Fortaleza
+226,Workshop — Banda Cearense #226,Workshop,Shopping Maraponga,Maraponga,2025-05-09,21:00,150,59,48,0.82,0.0,True,0.0,Banda Cearense
+227,Cinema — Instrutores SENAC #227,Cinema,Teatro RioMar,Meireles,2024-10-20,14:00,180,195,128,0.66,25.71,False,3290.88,Instrutores SENAC
+228,Exposição — DJ Nordeste #228,Exposição,Cineteatro São Luiz,Aldeota,2025-06-23,18:00,120,318,85,0.27,5.76,False,489.6,DJ Nordeste
+229,Teatro — Trio Nordestino #229,Teatro,Centro Comunitário,Maraponga,2024-08-19,18:00,240,315,214,0.68,79.41,False,16993.74,Trio Nordestino
+230,Show Musical — Trio Nordestino #230,Show Musical,Espaço Cultural Aldeota,Aldeota,2024-01-10,21:00,90,1853,1371,0.74,139.96,False,191885.16,Trio Nordestino
+231,Cinema — Trio Nordestino #231,Cinema,Shopping Maraponga,Maraponga,2025-05-01,18:00,60,195,148,0.76,19.6,False,2900.8,Trio Nordestino
+232,Stand-up — Instrutores SENAC #232,Stand-up,Teatro RioMar,Meireles,2024-07-31,20:00,90,575,506,0.88,31.1,False,15736.6,Instrutores SENAC
+233,Teatro — Companhia de Teatro Local #233,Teatro,UFC Campus,Benfica,2025-02-02,21:00,180,368,191,0.52,70.08,False,13385.28,Companhia de Teatro Local
+234,Exposição — Companhia de Teatro Local #234,Exposição,Teatro Glauco Rodrigues,Aldeota,2025-03-23,16:00,60,431,297,0.69,1.61,False,478.17,Companhia de Teatro Local
+235,Cinema — Coral Universitário #235,Cinema,Shopping Maraponga,Maraponga,2024-08-21,18:00,180,129,89,0.69,24.01,False,2136.89,Coral Universitário
+236,Cinema — Coral Universitário #236,Cinema,Teatro Glauco Rodrigues,Aldeota,2024-03-25,18:00,90,135,94,0.7,29.26,False,2750.44,Coral Universitário
+237,Exposição — DJ Nordeste #237,Exposição,Praça Central,Messejana,2024-11-11,19:00,120,234,58,0.25,0.16,False,9.28,DJ Nordeste
+238,Teatro — Companhia de Teatro Local #238,Teatro,Praça do Ferreira,Centro,2024-04-15,14:00,60,309,210,0.68,50.75,False,10657.5,Companhia de Teatro Local
+239,Dança — Orquestra Fortaleza #239,Dança,Casa de Cultura,Messejana,2024-09-05,20:00,180,154,86,0.56,51.17,False,4400.62,Orquestra Fortaleza
+240,Exposição — Coral Universitário #240,Exposição,Praça do Ferreira,Centro,2024-06-20,19:00,120,204,67,0.33,4.38,False,293.46,Coral Universitário
+241,Teatro — Orquestra Fortaleza #241,Teatro,Centro Comunitário,Maraponga,2024-07-19,19:00,60,206,156,0.76,49.75,False,7761.0,Orquestra Fortaleza
+242,Cinema — Ballet Fortaleza #242,Cinema,Centro Comunitário,Maraponga,2024-05-19,18:00,120,144,74,0.52,23.61,False,1747.14,Ballet Fortaleza
+243,Festival — Cineclube Dragão #243,Festival,Iate Clube,Beira Mar,2024-10-25,21:00,240,1955,1935,0.99,389.05,False,752811.75,Cineclube Dragão
+244,Festival — Ballet Fortaleza #244,Festival,Centro Comunitário,Maraponga,2024-04-26,20:00,90,2796,2628,0.94,187.53,False,492828.84,Ballet Fortaleza
+245,Exposição — Trio Nordestino #245,Exposição,Arena Meireles,Meireles,2024-10-25,22:00,240,286,191,0.67,6.29,False,1201.39,Trio Nordestino
+246,Cinema — Trio Nordestino #246,Cinema,Anfiteatro da Beira Mar,Beira Mar,2025-03-09,22:00,150,137,57,0.42,28.17,False,1605.69,Trio Nordestino
+247,Workshop — Cineclube Dragão #247,Workshop,Praça Central,Messejana,2024-03-28,14:00,90,54,28,0.52,195.26,False,5467.28,Cineclube Dragão
+248,Exposição — Trio Nordestino #248,Exposição,Arena Meireles,Meireles,2024-12-05,22:00,150,380,205,0.54,0.0,True,0.0,Trio Nordestino
+249,Stand-up — Banda Cearense #249,Stand-up,Espaço Varjota,Varjota,2025-05-27,16:00,120,328,219,0.67,62.41,False,13667.79,Banda Cearense
+250,Stand-up — Artistas Visuais CE #250,Stand-up,Casa de Cultura,Messejana,2024-12-22,18:00,120,159,138,0.87,81.11,False,11193.18,Artistas Visuais CE
+251,Workshop — Banda Cearense #251,Workshop,Centro Comunitário,Maraponga,2024-11-22,14:00,120,26,18,0.72,154.51,False,2781.18,Banda Cearense
+252,Teatro — Humoristas do Nordeste #252,Teatro,Centro Cultural Dragão do Mar,Meireles,2024-09-06,20:00,90,135,99,0.74,29.86,False,2956.14,Humoristas do Nordeste
+253,Cinema — Instrutores SENAC #253,Cinema,Anfiteatro da Beira Mar,Beira Mar,2025-03-18,19:00,60,163,99,0.61,18.73,False,1854.27,Instrutores SENAC
+254,Festival — Trio Nordestino #254,Festival,Iate Clube,Beira Mar,2024-10-12,22:00,240,3685,2579,0.7,125.18,False,322839.22,Trio Nordestino
+255,Exposição — Companhia de Teatro Local #255,Exposição,Centro Comunitário,Maraponga,2025-05-16,20:00,240,150,64,0.43,7.87,False,503.68,Companhia de Teatro Local
+256,Cinema — Trio Nordestino #256,Cinema,Espaço Cultural Aldeota,Aldeota,2024-10-31,20:00,180,150,108,0.72,27.35,False,2953.8,Trio Nordestino
+257,Dança — Coral Universitário #257,Dança,Cineteatro São Luiz,Aldeota,2024-05-24,20:00,150,158,64,0.41,34.93,False,2235.52,Coral Universitário
+258,Cinema — Artistas Visuais CE #258,Cinema,Casa de Cultura,Messejana,2024-06-26,20:00,90,184,114,0.62,28.87,False,3291.18,Artistas Visuais CE
+259,Exposição — Grupo Folclórico CE #259,Exposição,Centro Comunitário,Maraponga,2024-01-10,19:00,90,367,84,0.23,10.77,False,904.68,Grupo Folclórico CE
+260,Workshop — Banda Cearense #260,Workshop,Praça Central,Messejana,2024-06-20,14:00,180,46,39,0.86,116.58,False,4546.62,Banda Cearense
+261,Festival — Artistas Visuais CE #261,Festival,UFC Campus,Benfica,2025-04-13,20:00,240,2751,2118,0.77,151.03,False,319881.54,Artistas Visuais CE
+262,Teatro — Artistas Visuais CE #262,Teatro,Espaço Cultural Aldeota,Aldeota,2024-02-12,22:00,240,358,289,0.81,42.01,False,12140.89,Artistas Visuais CE
+263,Cinema — Trio Nordestino #263,Cinema,Teatro Glauco Rodrigues,Aldeota,2025-04-05,18:00,120,123,55,0.45,34.99,False,1924.45,Trio Nordestino
+264,Teatro — Orquestra Fortaleza #264,Teatro,Espaço Varjota,Varjota,2025-03-14,16:00,180,381,281,0.74,71.66,False,20136.46,Orquestra Fortaleza
+265,Festival — DJ Nordeste #265,Festival,Arena Meireles,Meireles,2024-06-21,18:00,240,3373,2900,0.86,258.9,False,750810.0,DJ Nordeste
+266,Stand-up — Orquestra Fortaleza #266,Stand-up,Cineteatro São Luiz,Aldeota,2024-03-01,18:00,240,592,497,0.84,58.81,False,29228.57,Orquestra Fortaleza
+267,Exposição — Ballet Fortaleza #267,Exposição,Espaço Varjota,Varjota,2025-02-06,19:00,90,414,149,0.36,7.43,False,1107.07,Ballet Fortaleza
+268,Cinema — Instrutores SENAC #268,Cinema,Praça Central,Messejana,2024-04-05,19:00,180,79,48,0.62,32.6,False,1564.8,Instrutores SENAC
+269,Dança — Cineclube Dragão #269,Dança,Iate Clube,Beira Mar,2024-04-05,21:00,150,163,104,0.64,54.76,False,5695.04,Cineclube Dragão
+270,Dança — Companhia de Teatro Local #270,Dança,Teatro Glauco Rodrigues,Aldeota,2024-08-04,19:00,120,181,83,0.46,37.19,False,3086.77,Companhia de Teatro Local
+271,Dança — Cineclube Dragão #271,Dança,Centro Cultural BNB,Centro,2024-02-19,14:00,60,298,175,0.59,33.75,False,5906.25,Cineclube Dragão
+272,Workshop — Instrutores SENAC #272,Workshop,Teatro RioMar,Meireles,2024-01-01,19:00,90,79,73,0.93,116.19,False,8481.87,Instrutores SENAC
+273,Stand-up — Orquestra Fortaleza #273,Stand-up,Praça do Ferreira,Centro,2025-01-15,21:00,240,147,116,0.79,0.0,True,0.0,Orquestra Fortaleza
+274,Stand-up — Orquestra Fortaleza #274,Stand-up,Clube Náutico,Varjota,2024-08-06,19:00,60,435,234,0.54,36.66,False,8578.44,Orquestra Fortaleza
+275,Workshop — Artistas Visuais CE #275,Workshop,Teatro RioMar,Meireles,2025-03-08,21:00,90,64,42,0.67,0.0,True,0.0,Artistas Visuais CE
+276,Cinema — Orquestra Fortaleza #276,Cinema,Teatro Glauco Rodrigues,Aldeota,2024-11-02,16:00,150,86,30,0.35,22.35,False,670.5,Orquestra Fortaleza
+277,Exposição — Grupo Folclórico CE #277,Exposição,Teatro Glauco Rodrigues,Aldeota,2025-03-26,18:00,240,338,67,0.2,19.5,False,1306.5,Grupo Folclórico CE
+278,Exposição — Ballet Fortaleza #278,Exposição,Praça Central,Messejana,2024-05-23,22:00,60,490,151,0.31,26.9,False,4061.9,Ballet Fortaleza
+279,Dança — Ballet Fortaleza #279,Dança,Praça Central,Messejana,2024-03-27,16:00,180,282,118,0.42,31.08,False,3667.44,Ballet Fortaleza
+280,Stand-up — Coral Universitário #280,Stand-up,Arena Meireles,Meireles,2025-06-05,16:00,240,548,350,0.64,66.24,False,23184.0,Coral Universitário
+281,Show Musical — Companhia de Teatro Local #281,Show Musical,Clube Náutico,Varjota,2024-03-13,20:00,60,1880,1203,0.64,144.91,False,174326.73,Companhia de Teatro Local
+282,Exposição — Banda Cearense #282,Exposição,Praça Central,Messejana,2025-04-27,22:00,60,237,111,0.47,5.18,False,574.98,Banda Cearense
+283,Show Musical — Cineclube Dragão #283,Show Musical,UFC Campus,Benfica,2025-02-11,20:00,120,463,439,0.95,239.22,False,105017.58,Cineclube Dragão
+284,Cinema — DJ Nordeste #284,Cinema,Praça Central,Messejana,2024-06-05,18:00,60,81,50,0.62,0.0,True,0.0,DJ Nordeste
+285,Festival — Coral Universitário #285,Festival,Centro Cultural BNB,Centro,2024-03-08,18:00,240,3176,2604,0.82,272.0,False,708288.0,Coral Universitário
+286,Festival — Instrutores SENAC #286,Festival,Teatro RioMar,Meireles,2024-02-26,18:00,240,1206,1181,0.98,90.6,False,106998.6,Instrutores SENAC
+287,Exposição — Humoristas do Nordeste #287,Exposição,Cineteatro São Luiz,Aldeota,2025-05-23,18:00,180,412,111,0.27,0.34,False,37.74,Humoristas do Nordeste
+288,Stand-up — Companhia de Teatro Local #288,Stand-up,Praça do Ferreira,Centro,2024-04-30,22:00,60,164,137,0.84,91.14,False,12486.18,Companhia de Teatro Local
+289,Stand-up — Companhia de Teatro Local #289,Stand-up,Espaço Cultural Aldeota,Aldeota,2025-05-23,19:00,180,464,436,0.94,0.0,True,0.0,Companhia de Teatro Local
+290,Exposição — Humoristas do Nordeste #290,Exposição,Shopping Maraponga,Maraponga,2024-04-28,16:00,240,180,106,0.59,0.0,True,0.0,Humoristas do Nordeste
+291,Show Musical — Humoristas do Nordeste #291,Show Musical,Espaço Varjota,Varjota,2024-07-02,22:00,60,2232,1651,0.74,233.25,False,385095.75,Humoristas do Nordeste
+292,Cinema — Ballet Fortaleza #292,Cinema,Clube Náutico,Varjota,2024-10-04,22:00,60,123,62,0.51,29.41,False,1823.42,Ballet Fortaleza
+293,Show Musical — DJ Nordeste #293,Show Musical,Teatro José de Alencar,Centro,2024-03-11,19:00,120,2412,2339,0.97,240.36,False,562202.04,DJ Nordeste
+294,Workshop — Ballet Fortaleza #294,Workshop,Centro Cultural Dragão do Mar,Meireles,2024-09-05,19:00,120,32,20,0.65,167.68,False,3353.6,Ballet Fortaleza
+295,Festival — Banda Cearense #295,Festival,Espaço Varjota,Varjota,2024-12-20,21:00,240,552,540,0.98,58.37,False,31519.8,Banda Cearense
+296,Show Musical — Orquestra Fortaleza #296,Show Musical,Praça Central,Messejana,2025-03-05,19:00,60,725,493,0.68,246.45,False,121499.85,Orquestra Fortaleza
+297,Teatro — Ballet Fortaleza #297,Teatro,Teatro RioMar,Meireles,2025-04-14,21:00,60,346,211,0.61,73.73,False,15557.03,Ballet Fortaleza
+298,Exposição — DJ Nordeste #298,Exposição,Casa de Cultura,Messejana,2024-05-13,16:00,120,353,169,0.48,13.05,False,2205.45,DJ Nordeste
+299,Cinema — Trio Nordestino #299,Cinema,Centro Comunitário,Maraponga,2024-07-26,16:00,180,175,77,0.44,16.49,False,1269.73,Trio Nordestino
+300,Exposição — Artistas Visuais CE #300,Exposição,Iate Clube,Beira Mar,2024-07-31,19:00,120,210,84,0.4,16.08,False,1350.72,Artistas Visuais CE
+301,Teatro — Orquestra Fortaleza #301,Teatro,Cineteatro São Luiz,Aldeota,2024-02-11,16:00,120,235,190,0.81,61.81,False,11743.9,Orquestra Fortaleza
+302,Festival — Artistas Visuais CE #302,Festival,Centro Comunitário,Maraponga,2024-06-27,14:00,150,4706,3341,0.71,154.59,False,516485.19,Artistas Visuais CE
+303,Festival — Orquestra Fortaleza #303,Festival,Espaço Cultural Aldeota,Aldeota,2024-01-13,14:00,90,1334,1253,0.94,98.93,False,123959.29,Orquestra Fortaleza
+304,Cinema — Artistas Visuais CE #304,Cinema,Shopping Maraponga,Maraponga,2024-03-07,16:00,240,126,95,0.76,16.5,False,1567.5,Artistas Visuais CE
+305,Teatro — Coral Universitário #305,Teatro,Shopping Maraponga,Maraponga,2025-03-19,22:00,240,101,87,0.87,23.04,False,2004.48,Coral Universitário
+306,Cinema — Banda Cearense #306,Cinema,Casa de Cultura,Messejana,2024-10-13,19:00,90,150,61,0.41,18.74,False,1143.14,Banda Cearense
+307,Festival — Orquestra Fortaleza #307,Festival,Espaço Benfica,Benfica,2024-03-30,18:00,150,3875,3720,0.96,217.66,False,809695.2,Orquestra Fortaleza
+308,Festival — Companhia de Teatro Local #308,Festival,Centro Cultural Dragão do Mar,Meireles,2024-12-18,20:00,180,3441,2890,0.84,323.5,False,934915.0,Companhia de Teatro Local
+309,Exposição — Humoristas do Nordeste #309,Exposição,Centro Cultural Dragão do Mar,Meireles,2024-10-14,14:00,150,355,110,0.31,26.87,False,2955.7,Humoristas do Nordeste
+310,Festival — Ballet Fortaleza #310,Festival,Teatro José de Alencar,Centro,2024-02-27,22:00,90,2530,2277,0.9,143.28,False,326248.56,Ballet Fortaleza
+311,Cinema — Instrutores SENAC #311,Cinema,Shopping Maraponga,Maraponga,2025-01-02,20:00,60,105,44,0.42,21.36,False,939.84,Instrutores SENAC
+312,Exposição — Ballet Fortaleza #312,Exposição,Clube Náutico,Varjota,2024-04-02,14:00,90,327,114,0.35,14.71,False,1676.94,Ballet Fortaleza
+313,Workshop — Companhia de Teatro Local #313,Workshop,Centro Cultural Dragão do Mar,Meireles,2024-12-14,21:00,90,78,63,0.81,0.0,True,0.0,Companhia de Teatro Local
+314,Exposição — Cineclube Dragão #314,Exposição,Teatro José de Alencar,Centro,2024-03-15,18:00,240,483,222,0.46,10.95,False,2430.9,Cineclube Dragão
+315,Teatro — Artistas Visuais CE #315,Teatro,Centro Comunitário,Maraponga,2025-03-23,22:00,240,245,115,0.47,29.45,False,3386.75,Artistas Visuais CE
+316,Exposição — DJ Nordeste #316,Exposição,Shopping Maraponga,Maraponga,2024-11-10,21:00,240,390,191,0.49,5.26,False,1004.66,DJ Nordeste
+317,Show Musical — Trio Nordestino #317,Show Musical,Casa de Cultura,Messejana,2024-08-14,21:00,180,1045,867,0.83,233.42,False,202375.14,Trio Nordestino
+318,Exposição — Cineclube Dragão #318,Exposição,Shopping Maraponga,Maraponga,2024-03-31,22:00,240,171,63,0.37,9.59,False,604.17,Cineclube Dragão
+319,Dança — Instrutores SENAC #319,Dança,Anfiteatro da Beira Mar,Beira Mar,2024-12-24,18:00,60,147,66,0.45,0.0,True,0.0,Instrutores SENAC
+320,Cinema — Coral Universitário #320,Cinema,Iate Clube,Beira Mar,2025-01-22,18:00,180,102,75,0.74,24.86,False,1864.5,Coral Universitário
+321,Workshop — DJ Nordeste #321,Workshop,Espaço Varjota,Varjota,2024-10-28,14:00,120,48,25,0.54,176.86,False,4421.5,DJ Nordeste
+322,Teatro — Ballet Fortaleza #322,Teatro,Shopping Maraponga,Maraponga,2024-04-05,18:00,180,272,130,0.48,24.5,False,3185.0,Ballet Fortaleza
+323,Show Musical — Grupo Folclórico CE #323,Show Musical,Casa de Cultura,Messejana,2024-04-13,18:00,90,2787,2619,0.94,72.99,False,191160.81,Grupo Folclórico CE
+324,Stand-up — Companhia de Teatro Local #324,Stand-up,Espaço Benfica,Benfica,2025-05-17,16:00,60,221,119,0.54,0.0,True,0.0,Companhia de Teatro Local
+325,Teatro — Trio Nordestino #325,Teatro,Espaço Benfica,Benfica,2024-10-25,14:00,150,182,81,0.45,32.42,False,2626.02,Trio Nordestino
+326,Cinema — Companhia de Teatro Local #326,Cinema,Iate Clube,Beira Mar,2024-07-08,18:00,150,127,44,0.35,25.88,False,1138.72,Companhia de Teatro Local
+327,Show Musical — Cineclube Dragão #327,Show Musical,Espaço Benfica,Benfica,2024-03-04,16:00,240,2204,1542,0.7,215.79,False,332748.18,Cineclube Dragão
+328,Dança — Cineclube Dragão #328,Dança,Casa de Cultura,Messejana,2025-06-19,19:00,180,221,83,0.38,35.48,False,2944.84,Cineclube Dragão
+329,Workshop — Humoristas do Nordeste #329,Workshop,Clube Náutico,Varjota,2024-02-05,20:00,180,39,21,0.54,185.42,False,3893.82,Humoristas do Nordeste
+330,Exposição — Orquestra Fortaleza #330,Exposição,Espaço Cultural Aldeota,Aldeota,2024-08-04,22:00,90,138,92,0.67,0.0,True,0.0,Orquestra Fortaleza
+331,Teatro — Humoristas do Nordeste #331,Teatro,Casa de Cultura,Messejana,2024-03-09,14:00,150,155,127,0.82,35.47,False,4504.69,Humoristas do Nordeste
+332,Dança — Trio Nordestino #332,Dança,Espaço Benfica,Benfica,2025-06-19,22:00,150,83,61,0.74,44.92,False,2740.12,Trio Nordestino
+333,Exposição — Coral Universitário #333,Exposição,Cineteatro São Luiz,Aldeota,2024-12-18,19:00,120,338,199,0.59,23.57,False,4690.43,Coral Universitário
+334,Workshop — Companhia de Teatro Local #334,Workshop,Teatro RioMar,Meireles,2025-02-15,14:00,150,37,25,0.7,142.74,False,3568.5,Companhia de Teatro Local
+335,Show Musical — Artistas Visuais CE #335,Show Musical,Iate Clube,Beira Mar,2024-11-06,18:00,120,1825,1113,0.61,211.65,False,235566.45,Artistas Visuais CE
+336,Teatro — Coral Universitário #336,Teatro,Espaço Varjota,Varjota,2024-11-24,18:00,240,233,207,0.89,46.59,False,9644.13,Coral Universitário
+337,Teatro — Companhia de Teatro Local #337,Teatro,Clube Náutico,Varjota,2025-05-11,22:00,180,188,161,0.86,44.43,False,7153.23,Companhia de Teatro Local
+338,Exposição — Orquestra Fortaleza #338,Exposição,Espaço Cultural Aldeota,Aldeota,2025-06-20,20:00,60,413,185,0.45,4.07,False,752.95,Orquestra Fortaleza
+339,Festival — Artistas Visuais CE #339,Festival,Teatro RioMar,Meireles,2024-07-22,18:00,120,770,646,0.84,371.31,False,239866.26,Artistas Visuais CE
+340,Teatro — Companhia de Teatro Local #340,Teatro,Teatro RioMar,Meireles,2025-04-30,20:00,180,270,172,0.64,46.77,False,8044.44,Companhia de Teatro Local
+341,Stand-up — Cineclube Dragão #341,Stand-up,Espaço Cultural Aldeota,Aldeota,2024-08-07,22:00,90,114,76,0.67,41.4,False,3146.4,Cineclube Dragão
+342,Festival — Cineclube Dragão #342,Festival,Espaço Benfica,Benfica,2024-01-10,19:00,90,4704,3339,0.71,323.11,False,1078864.29,Cineclube Dragão
+343,Show Musical — Companhia de Teatro Local #343,Show Musical,Clube Náutico,Varjota,2024-10-08,19:00,150,2791,2539,0.91,104.15,False,264436.85,Companhia de Teatro Local
+344,Festival — Cineclube Dragão #344,Festival,Iate Clube,Beira Mar,2024-04-14,14:00,180,4765,4526,0.95,189.0,False,855414.0,Cineclube Dragão
+345,Dança — DJ Nordeste #345,Dança,Espaço Benfica,Benfica,2024-10-10,21:00,120,255,102,0.4,22.55,False,2300.1,DJ Nordeste
+346,Stand-up — Cineclube Dragão #346,Stand-up,Espaço Varjota,Varjota,2025-02-17,21:00,120,364,305,0.84,92.98,False,28358.9,Cineclube Dragão
+347,Show Musical — Ballet Fortaleza #347,Show Musical,Iate Clube,Beira Mar,2024-02-06,20:00,240,1362,1280,0.94,124.97,False,159961.6,Ballet Fortaleza
+348,Dança — Humoristas do Nordeste #348,Dança,Clube Náutico,Varjota,2024-06-23,22:00,240,251,133,0.53,32.01,False,4257.33,Humoristas do Nordeste
+349,Teatro — Cineclube Dragão #349,Teatro,Anfiteatro da Beira Mar,Beira Mar,2024-07-06,21:00,120,212,161,0.76,53.54,False,8619.94,Cineclube Dragão
+350,Dança — Artistas Visuais CE #350,Dança,Clube Náutico,Varjota,2024-09-23,20:00,120,187,138,0.74,33.25,False,4588.5,Artistas Visuais CE
